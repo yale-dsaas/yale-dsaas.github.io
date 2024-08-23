@@ -11,9 +11,9 @@ permalink: pretty
 # Setup
 title: Astro x Data Science
 tagline: 'Yale Data Science x Astronomy-Astrophysics Seminar'
-url: https://yale-dsaas.github.io/
 description: 'The Yale Data Science x Astronomy-Astrophysics Seminar Series'
-baseurl: "/"
+url: https://yale-dsaas.github.io
+baseurl: /
 
 author:
   name: 'Yasmeen Asali'
