@@ -12,7 +12,7 @@ permalink: pretty
 title: Astro x Data Science
 tagline: 'Yale Data Science x Astronomy-Astrophysics Seminar'
 description: 'The Yale Data Science x Astronomy-Astrophysics Seminar Series'
-baseurl: /
+baseurl: ""
 
 author:
   name: 'Yasmeen Asali'
