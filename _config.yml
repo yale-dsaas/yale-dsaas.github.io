@@ -13,7 +13,6 @@ title: Astro x Data Science
 tagline: 'Yale Data Science x Astronomy-Astrophysics Seminar'
 url: https://yale-dsaas.github.io/
 description: 'The Yale Data Science x Astronomy-Astrophysics Seminar Series'
-baseurl: /
 
 author:
   name: 'Yasmeen Asali'
@@ -21,7 +20,3 @@ author:
 
 paginate: 1 # Only one post per page
 paginate_path: "/page:num/"
-
-# Custom vars
-version: 2.1.0
-
