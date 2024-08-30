@@ -3,7 +3,7 @@ layout: post
 title: Spring 2024 Schedule 
 ---
 
-For Spring 2024, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our [Guidelines for Virtual Engagement](rules/) 
+For Spring 2024, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.url }}/rules">Guidelines for Virtual Engagement</a>.
 
 <table>
   <thead>
