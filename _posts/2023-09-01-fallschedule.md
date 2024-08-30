@@ -3,7 +3,7 @@ layout: post
 title: Fall 2023 Schedule 
 ---
 
-For Fall 2023, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.url }}/rules">Guidelines for Virtual Engagement</a>.
+For Fall 2023, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement</a>.
 
 <table>
   <thead>
