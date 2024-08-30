@@ -17,15 +17,15 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
   <tbody>
     <tr>
       <td>Sept. 3<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Yasmeen Asali</td>
+      <td>Journal Club</td>
+      <td>See “Yale Astro. Data Science” on <a href="https://www.benty-fields.com/">benty-fields</a> for papers</td>
     </tr>
     <tr>
       <td>Sept. 17<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
       <td><a href="https://johnsoltis.github.io/">John Soltis</a></td>
-      <td></td>
+      <td>Direct Estimation of Galaxy Cluster Mass Accretion Rate using Machine Learning</td>
     </tr>
     <tr>
       <td>Oct. 1<br>12pm - 1pm</td>
