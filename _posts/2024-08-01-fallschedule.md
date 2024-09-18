@@ -29,8 +29,8 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
     </tr>
     <tr>
       <td>Oct. 1<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
+      <td>Yasmeen Asali</td>
+      <td><a href="https://www.astro.columbia.edu/content/kartheik-iyer">Kartheik Iyer</a></td>
       <td></td>
     </tr>
     <tr>
@@ -42,13 +42,13 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
     <tr>
       <td>Oct. 29<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
-      <td>Jiaxuan Li</td>
+      <td><a href="https://www.jiaxuanli.me/">Jiaxuan Li</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Nov. 12<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
+      <td>Yasmeen Asali</td>
+      <td><a href="https://users.obs.carnegiescience.edu/iescala/">Ivanna Escala</a></td>
       <td></td>
     </tr>
     <tr>
