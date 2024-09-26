@@ -31,7 +31,7 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
       <td>Oct. 1<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
       <td><a href="https://www.astro.columbia.edu/content/kartheik-iyer">Kartheik Iyer</a></td>
-      <td></td>
+      <td>Navigating the Cosmic Library with Pathfinder (and why interpretable spaces matter)</td>
     </tr>
     <tr>
       <td>Oct. 15<br>12pm - 1pm</td>
