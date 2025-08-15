@@ -13,3 +13,18 @@ The organizers of the seminar solicit interest in giving long-form presentations
 
 This seminar aims to be a welcoming place for all our attendees. Attendees are always expected to be respectful towards each other and follow the instructions of the discussion leader. 
 
+-----
+
+To add something/someone to the schedule / propose a workshop/anything else, please send an email to any of the current organizers. 
+
+Fall 2025 Organizers: Barry Chiang, Yasmeen Asali
+Spring 2025 Organizer: Yasmeen Asali
+Fall 2024 Organizer: Yasmeen Asali
+Spring 2024 Organizer: Yasmeen Asali
+Fall 2023 Organizers: Yasmeen Asali, Imad Pasha, Sasha Gaines
+Spring 2023 Organizers: Sasha Gaines, Yasmeen Asali, Tim Miller
+Fall 2022 Organizers: Sasha Gaines, Yasmeen Asali, Tim Miller
+Spring 2022 Organizers: Aritra Ghosh, Sasha Gaines, Yasmeen Asali, Ava Polzin, Tim Miller
+Fall 2021 Organizers: Aritra Ghosh, Sasha Gaines, Yasmeen Asali, Zili Shen
+
+For general questions or for mistakes/changes on the website, send an email to <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>
