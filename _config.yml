@@ -9,7 +9,7 @@ plugins:
 permalink: pretty
 
 # Setup
-title: Astro x Data Science
+title: Yale Astro x Data Science
 tagline: 'Yale Data Science x Astronomy-Astrophysics Seminar'
 description: 'The Yale Data Science x Astronomy-Astrophysics Seminar Series'
 url: https://yale-dsaas.github.io/
@@ -19,5 +19,5 @@ author:
   name: 'Yasmeen Asali'
   url: https://yasmeenasali.com
 
-paginate: 1 # Only one post per page
+paginate: 4 # Only one post per page
 paginate_path: "/page:num/"
