@@ -6,9 +6,9 @@ title: Current Schedule
 {% assign latest = site.posts | first %}
 {% if latest %}
   <article class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ latest.url | relative_url }}">{{ latest.title }}</a>
-    </h1>
+    </h2>
     <span class="post-date">{{ latest.date | date_to_string }}</span>
 
     {{ latest.content }}
