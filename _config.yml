@@ -19,5 +19,5 @@ author:
   name: 'Yasmeen Asali'
   url: https://yasmeenasali.com
 
-paginate: 4 # Only one post per page
+paginate: 1 # Only one post per page
 paginate_path: "/page:num/"
