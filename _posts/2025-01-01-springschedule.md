@@ -16,38 +16,44 @@ For Spring 2025, we will be organizing the seminar in hybrid mode. The zoom link
   </thead>
   <tbody>
     <tr>
-      <td>March 25<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://janehjlee.github.io/">Jane Lee (Yale)</a></td>
-      <td>Distribution Learning and Inference using Incomplete Data</td>
+      <td>Sept. 16</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>April 8<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://astronomy.yale.edu/people/ebraheem-farag">Ebraheem Farag (Yale)</a></td>
-      <td>From Software Instruments to Stellar Evolution with Git</td>
+      <td>Sept. 30</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>April 22<br>12pm - 1pm</td>
-      <td>Yasmeen Asali and Christopher Lindsay</td>
-      <td><a href="https://jeroenaudenaert.com/">Jeroen Audenaert (MIT)</a></td>
-      <td>From stellar light to astrophysical insight: automating variable star research with machine learning</td>
+      <td>Oct. 14</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>May 6<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://virajpandya.github.io/">Viraj Pandya (Columbia)</a></td>
-      <td>Physics-Informed, AI-Accelerated Dynamical Modeling and Bayesian Inference for Galaxy Populations</td>
+      <td>Oct. 28</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>May 20<br>12pm - 1pm</td>
-      <td>Yasmeen Asali</td>
-      <td><a href="https://www.kaleybrauer.com/">Kaley Brauer (Harvard)</a></td>
-      <td>Simulating Early Chemical Enrichment and Galaxy Formation</td>
+      <td>Nov. 11</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dec. 2</td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 -----
 
-Spring 2025 Organizer: <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>
+Spring 2025 Organizers: Barry Chiang and <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>

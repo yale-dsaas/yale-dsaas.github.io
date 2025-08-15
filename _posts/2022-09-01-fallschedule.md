@@ -5,7 +5,6 @@ title: Fall 2022 Schedule
 
 For Fall 2022, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the 46 HLH conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement.
 
-
 <table>
   <thead>
     <tr>
