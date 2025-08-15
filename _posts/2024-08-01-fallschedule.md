@@ -45,12 +45,6 @@ For Fall 2024, we will be organizing the seminar in hybrid mode. The zoom link w
       <td><a href="https://users.obs.carnegiescience.edu/iescala/">Ivanna Escala</a></td>
       <td>Low Signal-to-Noise Resolved Stellar Spectroscopy at the Edge of the Local Group: Extracting Chemical and Kinematical Signatures Probing Galaxy Assembly in the M31 System</td>
     </tr>
-    <tr>
-      <td>Dec. 3<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 
