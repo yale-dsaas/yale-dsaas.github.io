@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Spring 2024 Schedule 
+title: Spring 2025 Schedule 
 ---
 
-For Spring 2024, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement</a>.
+For Spring 2025, we will be organizing the seminar in hybrid mode. The zoom link will be sent via deptartment wide email and the in-person session will be held in the KT 5th floor conference room. While the seminar is held in virtual or hybrid mode, we ask our attendees to follow our <a href="{{ site.baseurl }}/rules">Guidelines for Virtual Engagement</a>.
 
 <table>
   <thead>
@@ -50,4 +50,4 @@ For Spring 2024, we will be organizing the seminar in hybrid mode. The zoom link
 
 -----
 
-Spring 2024 Organizer: <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>
+Spring 2025 Organizer: <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali.</a>
