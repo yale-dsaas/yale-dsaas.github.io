@@ -17,7 +17,7 @@ This seminar aims to be a welcoming place for all our attendees. Attendees are a
 
 To add something/someone to the schedule / propose a workshop/anything else, please send an email to any of the current organizers. 
 
-Fall 2025 Organizers: Barry Chiang, Yasmeen Asali
+Fall 2025 Organizers: Barry T. Chiang, Yasmeen Asali
 Spring 2025 Organizer: Yasmeen Asali
 Fall 2024 Organizer: Yasmeen Asali
 Spring 2024 Organizer: Yasmeen Asali
