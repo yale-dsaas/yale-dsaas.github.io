@@ -18,7 +18,7 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
     <tr>
       <td>Sept. 16</td>
       <td>Barry T. Chiang</td>
-      <td></td>
+      <td>Aakash Patel (Yale)</td>
       <td></td>
     </tr>
     <tr>
@@ -57,4 +57,5 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
 -----
 
 Fall 2025 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a> and <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>.
+
 
