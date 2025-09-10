@@ -17,14 +17,14 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
   <tbody>
     <tr>
       <td>Sept. 16</td>
-      <td></td>
+      <td>Barry T. Chiang</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Sept. 30</td>
-      <td></td>
-      <td></td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://sites.google.com/view/aldanagrichener">Aldana Grichener (Steward Observatory)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -41,8 +41,8 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
     </tr>
     <tr>
       <td>Nov. 11</td>
-      <td></td>
-      <td></td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://www.bu.edu/csp/profiles/simin-shekarpaz/">Simin Shekarpaz (Boston University)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -57,3 +57,4 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
 -----
 
 Fall 2025 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a> and <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>.
+
