@@ -19,13 +19,13 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
       <td>Sept. 16<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td>Aakash Patel (Yale)</td>
-      <td></td>
+      <td>Neural Posterior Estimation for Cataloging Astronomical Images</td>
     </tr>
     <tr>
       <td>Sept. 30<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://sites.google.com/view/aldanagrichener">Aldana Grichener (Steward Observatory)</a></td>
-      <td></td>
+      <td>Nuclear Neural Networks: Pathways to Modelling Massive Stars and Supernova Explosions</td>
     </tr>
     <tr>
       <td>Oct. 14<br>12pm - 1pm</td>
@@ -57,6 +57,7 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
 -----
 
 Fall 2025 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a> and <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>.
+
 
 
 
