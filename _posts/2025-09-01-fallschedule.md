@@ -31,7 +31,7 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
       <td>Oct. 14<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
       <td><a href="https://www.astro.columbia.edu/content/amanda-lue">Amanda Lue (Columbia)</a></td>
-      <td></td>
+      <td>Cosmology with One Galaxy: Autoencoding the Galaxy Properties Manifold</td>
     </tr>
     <tr>
       <td>Oct. 28<br>12pm - 1pm</td>
@@ -57,6 +57,7 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
 -----
 
 Fall 2025 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a> and <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>.
+
 
 
 
