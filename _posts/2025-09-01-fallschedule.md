@@ -37,19 +37,19 @@ For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor c
       <td>Oct. 28<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
       <td><a href="https://amysecunda.com/">Amy Secunda (Flatiron)</a></td>
-      <td></td>
+      <td>Mapping Active Galactic Nuclei Accretion Disks with Transformers</td>
     </tr>
     <tr>
       <td>Nov. 11<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://www.bu.edu/csp/profiles/simin-shekarpaz/">Simin Shekarpaz (Boston University)</a></td>
-      <td></td>
+      <td>Machine Learning Surrogate Models for Space Plasma Kinetics</td>
     </tr>
     <tr>
       <td>Dec. 2<br>12pm - 1pm</td>
       <td>Yasmeen Asali</td>
       <td><a href="https://e-koch.github.io/">Eric Koch (NRAO)</a></td>
-      <td></td>
+      <td>Community and Infrastructure Roles at the intersection of Astronomy and Data Science</td>
     </tr>
   </tbody>
 </table>
