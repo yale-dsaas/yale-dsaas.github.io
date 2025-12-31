@@ -29,8 +29,8 @@ For Spring 2026, we will be organizing the seminar in persom in the KT 5th floor
     </tr>
     <tr>
       <td>Feb. 24<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://astronomy.as.virginia.edu/alex-garcia">Alex M. Garcia (U. of Virginia)</td>
       <td></td>
     </tr>
     <tr>
@@ -51,12 +51,19 @@ For Spring 2026, we will be organizing the seminar in persom in the KT 5th floor
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td>May 5<br>12pm - 1pm</td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://eduardo-vitral.github.io/">Eduardo Vitral (U. of Edinburgh)</a></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
 -----
 
 Spring 2026 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a>, <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>, and <a href="mailto:selim.kalici@yale.edu">Selim Kalici</a>.
+
 
 
 
