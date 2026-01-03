@@ -3,7 +3,7 @@ layout: post
 title: Spring 2026 Schedule 
 ---
 
-For Spring 2026, we will be organizing the seminar in persom in the KT 5th floor conference room (KT 501).
+For Spring 2026, we will be organizing the seminar in person in the KT 5th floor conference room (KT 501).
 
 <table>
   <thead>
@@ -18,7 +18,7 @@ For Spring 2026, we will be organizing the seminar in persom in the KT 5th floor
     <tr>
       <td>Jan. 27<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td><a href="https://orcid.org/0009-0008-5791-1012">Paloma Morilla Martínez (U. of the Basque Country)</td>
+      <td><a href="https://orcid.org/0009-0008-5791-1012">Paloma Morilla Martínez (U. of the Basque Country)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ For Spring 2026, we will be organizing the seminar in persom in the KT 5th floor
     <tr>
       <td>Feb. 24<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td><a href="https://astronomy.as.virginia.edu/alex-garcia">Alex M. Garcia (U. of Virginia)</td>
+      <td><a href="https://astronomy.as.virginia.edu/alex-garcia">Alex M. Garcia (U. of Virginia)</a></td>
       <td></td>
     </tr>
     <tr>
