@@ -3,7 +3,7 @@ layout: post
 title: Fall 2025 Schedule 
 ---
 
-For Fall 2025, we will be organizing the seminar in persom in the KT 5th floor conference room (KT 501).
+For Fall 2025, we will be organizing the seminar in person in the KT 5th floor conference room (KT 501).
 
 <table>
   <thead>
