@@ -35,8 +35,8 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
     </tr>
     <tr>
       <td>Mar. 24<br>12pm - 1pm</td>
-      <td></td>
-      <td></td>
+      <td>Selim Kalici</td>
+      <td><a href="https://astronomy.yale.edu/people/yan-liang">Yan Liang (Yale)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -63,6 +63,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
 -----
 
 Spring 2026 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a>, <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>, and <a href="mailto:selim.kalici@yale.edu">Selim Kalici</a>.
+
 
 
 
