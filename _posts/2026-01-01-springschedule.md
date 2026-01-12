@@ -19,7 +19,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
       <td>Jan. 27<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://orcid.org/0009-0008-5791-1012">Paloma Morilla Martínez (U. of the Basque Country)</a></td>
-      <td></td>
+      <td>Signatures of fuzzy dark matter inside radial critical curves</td>
     </tr>
     <tr>
       <td>Feb. 10<br>12pm - 1pm</td>
@@ -63,6 +63,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
 -----
 
 Spring 2026 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a>, <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>, and <a href="mailto:selim.kalici@yale.edu">Selim Kalici</a>.
+
 
 
 
