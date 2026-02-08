@@ -31,7 +31,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
       <td>Feb. 24<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://astronomy.as.virginia.edu/alex-garcia">Alex M. Garcia (U. of Virginia)</a></td>
-      <td></td>
+      <td>Using Simulated Galaxies to Understand Galaxy Evolution</td>
     </tr>
     <tr>
       <td>Mar. 24<br>12pm - 1pm</td>
@@ -63,6 +63,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
 -----
 
 Spring 2026 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a>, <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>, and <a href="mailto:selim.kalici@yale.edu">Selim Kalici</a>.
+
 
 
 
