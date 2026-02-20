@@ -42,7 +42,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
     <tr>
       <td>Apr. 7<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td><a href="https://mssiwek.github.io/">Magdalena Siwek (NYU)</a></td>
+      <td><a href="https://hsouch.github.io/">Harrison Souchereau (Yale)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -63,6 +63,7 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
 -----
 
 Spring 2026 Organizers: <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang</a>, <a href="mailto:yasmeen.asali@yale.edu">Yasmeen Asali</a>, and <a href="mailto:selim.kalici@yale.edu">Selim Kalici</a>.
+
 
 
 
