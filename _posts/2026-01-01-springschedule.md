@@ -37,25 +37,25 @@ For Spring 2026, we will be organizing the seminar in person in the KT 5th floor
       <td>Mar. 24<br>12pm - 1pm</td>
       <td>Selim Kalici</td>
       <td><a href="https://astronomy.yale.edu/people/yan-liang">Yan Liang (Yale)</a></td>
-      <td></td>
+      <td>Disentangling Stellar Activity from Planet Signals with Generative Models</td>
     </tr>
     <tr>
       <td>Apr. 7<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://hsouch.github.io/">Harrison Souchereau (Yale)</a></td>
-      <td></td>
+      <td>The Rust Programming Language: Speed and Memory Safety</td>
     </tr>
     <tr>
       <td>Apr. 21<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://carriefilion.github.io/">Carrie Filion (CCA)</a></td>
-      <td></td>
+      <td>I Dream of Disks: Quantifying Disk Structure in the DREAMS Cosmological Simulations</td>
     </tr>
     <tr>
       <td>May 5<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://eduardo-vitral.github.io/">Eduardo Vitral (U. of Edinburgh)</a></td>
-      <td></td>
+      <td>Signatures of dark subhalos in dwarf spheroidal galaxies</td>
     </tr>
   </tbody>
 </table>
