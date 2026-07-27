@@ -37,7 +37,7 @@ We understand that a number of hindrances can affect virtual participation (inte
 
 -----
 
-To add something/someone to the schedule / propose a workshop/anything else, please send an email to any of the current organizers. 
+To add something/someone to the schedule/propose a workshop/anything else, please send an email to any of the current organizers. 
 
 - Fall 2026 Organizers: Barry T. Chiang, Selim Kalici
 - Spring 2026 Organizers: Barry T. Chiang, Yasmeen Asali, Selim Kalici
