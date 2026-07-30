@@ -26,7 +26,7 @@ This seminar aims to be a welcoming and inclusive space for all attendees. We as
 
 # Guidelines for Virtual Engagement 
 
-Our goal for this seminar series is to highlight data science techniques and foster discussion between participants about their applicability to astronomy and astrophysics. In order to achieve an active and engaged atmosphere in our meetings, we provide these guidelines for virtual engagement during online / hybrid meetings: 
+Our goal for this seminar series is to highlight data science techniques and foster discussion between participants about their applicability to astronomy and astrophysics. In order to achieve an active and engaged atmosphere in our meetings, we provide these guidelines for virtual engagement during online/hybrid meetings: 
 
 1. Act as you would in person: don’t do other work or multi-task by minimizing distractions
 2. Leave your camera on
@@ -51,4 +51,4 @@ To add something/someone to the schedule/propose a workshop/anything else, pleas
 - Spring 2022 Organizers: Aritra Ghosh, Sasha Gaines, Yasmeen Asali, Ava Polzin, Tim Miller
 - Fall 2021 Organizers: Aritra Ghosh, Sasha Gaines, Yasmeen Asali, Zili Shen
 
-For general questions or for mistakes/changes on the website, send an email to <a href="mailto:barrytchiang@yale.edu">Barry T. Chiang.</a>
+For general questions or for mistakes/changes on the website, send an email to <a href="mailto:barry.chiang@yale.edu">Barry T. Chiang.</a>

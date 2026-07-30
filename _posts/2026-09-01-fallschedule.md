@@ -24,7 +24,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
     <tr>
       <td>Sept. 29<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td></td>
+      <td><a href="https://www.qu.uni-hamburg.de/qurs/membership/interviews/26-04-subarna-chaki.html">Subarna Chaki (U. of Hamburg)</a><br><a href="https://github.com/kitokamada">Kito Liao (NYU)</a></td>
       <td></td>
     </tr>
     <tr>
