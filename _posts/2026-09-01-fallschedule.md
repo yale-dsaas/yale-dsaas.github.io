@@ -48,7 +48,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
     <tr>
       <td>Dec. 8<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td></td>
+      <td><a href="https://zoehackshaw.github.io/">Zoe Hackshaw (UT Austin)</a></td>
       <td></td>
     </tr>
   </tbody>
