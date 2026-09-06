@@ -42,7 +42,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
     <tr>
       <td>Nov. 10<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td></td>
+      <td><a href="https://dilysruan.github.io/">Dilys Ruan (Rutgers)</a></td>
       <td></td>
     </tr>
     <tr>
