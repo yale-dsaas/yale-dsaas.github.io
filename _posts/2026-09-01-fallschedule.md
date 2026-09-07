@@ -19,7 +19,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
       <td>Sept. 15<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://leonardromano.github.io/">Leonard Romano (Ludwig Maximilian Universität München)</a></td>
-      <td></td>
+      <td>Characterizing Stellar Bars in Hydrodynamical Simulations of Disk Galaxies</td>
     </tr>
     <tr>
       <td>Sept. 29<br>12pm - 1pm</td>
