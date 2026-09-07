@@ -46,6 +46,12 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
       <td></td>
     </tr>
     <tr>
+      <td>Dec. 1 (Special Session)<br>11am - 12pm</td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://robelgeda.com/">Robel Geda (Princeton)</a></td>
+      <td>Disk Formation and Periodic Star Formation in Dwarf Galaxies</td>
+    </tr>
+    <tr>
       <td>Dec. 8<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://zoehackshaw.github.io/">Zoe Hackshaw (UT Austin)</a></td>
