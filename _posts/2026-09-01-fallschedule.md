@@ -28,12 +28,6 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
       <td></td>
     </tr>
     <tr>
-      <td>Oct. 13<br>12pm - 1pm</td>
-      <td>Barry T. Chiang</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Oct. 27<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://astropradyumna.github.io/">Pradyumna Sadhu (UC Riverside)</a></td>
