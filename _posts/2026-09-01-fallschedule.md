@@ -24,8 +24,14 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
     <tr>
       <td>Sept. 29<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
-      <td><a href="https://www.qu.uni-hamburg.de/qurs/membership/interviews/26-04-subarna-chaki.html">Subarna Chaki (U. of Hamburg)</a><br><a href="https://kitokamada.github.io/kitokliao/index.html">Kito Liao (NYU)</a><br><a href="https://ngluck.github.io/">Naomi Gluck (Yale)</a></td>
+      <td><a href="https://www.qu.uni-hamburg.de/qurs/membership/interviews/26-04-subarna-chaki.html">Subarna Chaki (U. of Hamburg)</a><br><a href="https://kitokamada.github.io/kitokliao/index.html">Kito Liao (NYU)</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>Oct. 13<br>12pm - 1pm</td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://ngluck.github.io/">Naomi Gluck (Yale)</a></td>
+      <td>Benchmarking Machine Learning Emulators of Stellar Evolution for Precision Asteroseismology</td>
     </tr>
     <tr>
       <td>Oct. 27<br>12pm - 1pm</td>
