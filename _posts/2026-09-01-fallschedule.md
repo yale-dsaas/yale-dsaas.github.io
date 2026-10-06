@@ -29,7 +29,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
     </tr>
     <tr>
       <td>Oct. 13<br>12pm - 1pm</td>
-      <td>Barry T. Chiang</td>
+      <td>Selim Kalici</td>
       <td><a href="https://ngluck.github.io/">Naomi Gluck (Yale)</a></td>
       <td>Benchmarking Machine Learning Emulators of Stellar Evolution for Precision Asteroseismology</td>
     </tr>
