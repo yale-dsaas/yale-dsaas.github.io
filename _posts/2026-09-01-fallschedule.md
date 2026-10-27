@@ -43,7 +43,7 @@ For Fall 2026, we will be organizing the seminar in person in the KT 5th floor c
       <td>Nov. 10<br>12pm - 1pm</td>
       <td>Barry T. Chiang</td>
       <td><a href="https://dilysruan.github.io/">Dilys Ruan (Rutgers)</a></td>
-      <td></td>
+      <td>Tracing Dwarf Galaxy Halos through HI Gas Kinematics</td>
     </tr>
     <tr>
       <td>Dec. 8<br>12pm - 1pm</td>
