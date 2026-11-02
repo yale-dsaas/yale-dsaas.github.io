@@ -23,8 +23,8 @@ For Spring 2027, we will be organizing the seminar in person in the KT 5th floor
     </tr>
     <tr>
       <td>Feb. 9<br>12pm - 1pm</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td>Barry T. Chiang</td>
+      <td><a href="https://zoehackshaw.github.io/">Zoe Hackshaw (UT Austin)</a></td>
       <td>TBD</td>
     </tr>
     <tr>
